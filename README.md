@@ -11,4 +11,5 @@ Datenquellen:
 
 * Stadtwerke Heilbronn: https://www.stadtwerke-heilbronn.de/index/hsw/Wasserh%C3%A4rte.html
 * Stadtwerke Neckarsulm: http://www.sw-neckarsulm.de/main/produkte/trinkwasser/wasseranalyse.html
+* BWB Berlin http://www.bwb.de/content/language1/downloads/WW_Analysedaten_2014.pdf
 * Webseiten der Gemeinden im Landkreis Heilbronn
