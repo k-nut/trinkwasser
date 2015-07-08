@@ -1,5 +1,4 @@
 tw.data.locations = {
-  "Berlin": {
     "Spandau": "",
     "Kladow": "",
     "Friedrichshagen": "",
@@ -9,5 +8,4 @@ tw.data.locations = {
     "Beelitzhof": "",
     "Wuhlheide": "",
     "Kaulsdorf": ""
-  }
 };

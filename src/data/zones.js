@@ -1,5 +1,5 @@
 tw.data.zones = {
-  "Berlin Friedrichshagen": {
+  "Friedrichshagen": {
     "magnesium": "11.9",
     "sulfat": "162",
     "natrium": "39",
@@ -9,7 +9,7 @@ tw.data.zones = {
     "nitrat": "2.9",
     "hardness": "17.7"
   },
-  "Berlin Kaulsdorf": {
+  "Kaulsdorf": {
     "magnesium": "12.4",
     "sulfat": "107",
     "natrium": "22",
@@ -19,7 +19,7 @@ tw.data.zones = {
     "nitrat": "1.4",
     "hardness": "18.9"
   },
-  "Berlin Tiefwerder": {
+  "Tiefwerder": {
     "magnesium": "10.3",
     "sulfat": "144",
     "natrium": "58",
@@ -29,7 +29,7 @@ tw.data.zones = {
     "nitrat": "3.6",
     "hardness": "19.9"
   },
-  "Berlin Wuhlheide": {
+  "Wuhlheide": {
     "magnesium": "15.2",
     "sulfat": "190",
     "natrium": "33",
@@ -39,7 +39,7 @@ tw.data.zones = {
     "nitrat": "4.4",
     "hardness": "23.2"
   },
-  "Berlin Spandau": {
+  "Spandau": {
     "magnesium": "7.8",
     "sulfat": "72",
     "natrium": "25",
@@ -49,7 +49,7 @@ tw.data.zones = {
     "nitrat": "1.1",
     "hardness": "14.9"
   },
-  "Berlin Tegel": {
+  "Tegel": {
     "magnesium": "9.7",
     "sulfat": "116",
     "natrium": "39",
@@ -59,7 +59,7 @@ tw.data.zones = {
     "nitrat": "4.9",
     "hardness": "16.3"
   },
-  "Berlin Beelitzhof": {
+  "Beelitzhof": {
     "magnesium": "8.7",
     "sulfat": "99",
     "natrium": "42",
@@ -69,7 +69,7 @@ tw.data.zones = {
     "nitrat": "3.3",
     "hardness": "15.6"
   },
-  "Berlin Kladow": {
+  "Kladow": {
     "magnesium": "8.7",
     "sulfat": "120",
     "natrium": "31",
@@ -79,7 +79,7 @@ tw.data.zones = {
     "nitrat": "2.7",
     "hardness": "16.7"
   },
-  "Berlin Stolpe": {
+  "Stolpe": {
     "magnesium": "9.9",
     "sulfat": "71",
     "natrium": "28",

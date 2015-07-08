@@ -68,6 +68,16 @@ h4 {
 .nav {
 	margin: 2em 0 3em 0;
 }
+
+.nav .nostyle:hover{
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.nav .nostyle{
+  cursor: default;
+}
+
 li.nav-li-main.active a {
 	background-color: #2a9fd6 !important;
 }
