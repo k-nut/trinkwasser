@@ -8,15 +8,15 @@ tw.data.referenceWaters = {
 		"sulfat": 59.1,
 		"sources": ["https://www.spreequell.de/getraenke/mineralwasser/mineralwasser-naturell/"]
 	},
-	"teusser": {
-		"natrium": 53,
-		"kalium": 8,
-		"calcium": 565,
-		"magnesium": 82,
-		"chlorid": 27,
-		"nitrat": 0.5,
-		"sulfat": 1450,
-		"sources": ["http://www.teusser.de/index.php?id=225"]
+	"badliebenwerda": {
+		"natrium": 6.9,
+		"kalium": 1.6,
+		"calcium": 15.8,
+		"magnesium": 3,
+		"chlorid": 5,
+		"nitrat": 1.0,
+		"sulfat": 55.8,
+		"sources": ["Flasche"]
 	},
 	"volvic": {
 		"natrium": 11.6,
