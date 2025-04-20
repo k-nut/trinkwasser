@@ -79,9 +79,6 @@ var tw = {
 				if (section === 'compare') {
 					tw.comparison.update(attribute, zoneData[attribute]);
 				}
-				if (section === 'map') {
-					tw.map.update(attribute);
-				}
 			} else {
 				$('.result-with-value').hide();
 				$('.result-without-value').show();
@@ -279,7 +276,6 @@ var tw = {
 		setupSectionSwitch();
 		tw.gauge.init();
 		tw.comparison.init();
-		tw.map.init();
 
 		if (window.location.href.indexOf('embed') < 0) {
 			$('h1').show();
